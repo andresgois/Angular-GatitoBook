@@ -18,3 +18,15 @@
     "./node_modules/font-awesome/CSS/font-awesome.CSS"
 ]
 ```
+
+## Módulos criados
+- ng g m home --routing -d
+- ng g m home --routing
+- *-d* : simula a criação das pastas
+- ng g c home
+- ng g c home/login
+
+
+## Links
+- https://github.com/tonsky/FiraCode
+- https://prettier.io/
