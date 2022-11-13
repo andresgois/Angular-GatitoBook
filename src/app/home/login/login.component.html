@@ -31,4 +31,8 @@
 
     <button type="submit" class="btn btn-primary btn-block mt-3" [disabled]="loginForm.invalid">Login</button>
   </form>
+
+  <p>Não é usuário?
+    <a [routerLink]="['novousuario']">Se cadastre!</a>
+  </p>
 </div>
